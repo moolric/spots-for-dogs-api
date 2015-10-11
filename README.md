@@ -19,7 +19,7 @@ Slim documentation  - http://docs.slimframework.com
 
 ##Setting up this project
 
-You will need a database, with tables that match the models. If you just want to get going, you can use the database in the /sql folder. If you want to use this project as a skeleton for your own project, you need to have a model for each table in your database (except the pivot tables). You'll need to carefully match up the names of routes and models.
+You will need a database, with tables that match the models. If you just want to get going, you can use the database in the /sql folder. If you want to use this project as a skeleton for your own project, the models need to match the tables in your database, including the parts about their relationships.
 
 Rename the config-example.php file to config.php and add your own connection details.
 
