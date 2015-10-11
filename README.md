@@ -1,4 +1,5 @@
-# spots-for-dogs-api
+# Spots for Dogs API
+
 A simple api using Slim and Eloquent ORM
 
 Created as a simple API for https://github.com/moolric/spots-for-dogs
