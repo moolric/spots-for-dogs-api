@@ -32,4 +32,8 @@ class Spot extends Eloquent
     {
         return $this->belongsTo('User');
     }
+    public function images()
+    {
+        return $this->hasMany('Image');
+    }
 }
